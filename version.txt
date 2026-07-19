@@ -1,2 +1,4 @@
 name: USB Redirector 1.9.7
 version: 1.9.7.1
+
+version: 1.9.7.13
